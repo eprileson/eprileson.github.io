@@ -2,12 +2,8 @@
 main:
   - title: "Research"
     url: /research/
-  
-  - title: "Publications"
-    url: /publications/
-
-  - title: "talks"
-    url: /talks/    
+      - title: "Publications"
+        url: /publications/   
 
   - title: "Teaching and Lesson Design"
     url: /teaching-and-lesson-design/    
@@ -15,7 +11,7 @@ main:
   - title: "Writing"
     url: /writing/
 
-  - title: "Side projects"
+  - title: "Side Projects"
     url: /side-projects
     
   - title: "CV"

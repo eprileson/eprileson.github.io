@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-+This is Eric Prileson's official home to showcase my work on the web!
-
-About Eric:
+I am a scientist and communicator researching responses to global change
+-
+I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
 
