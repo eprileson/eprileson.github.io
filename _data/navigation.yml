@@ -2,8 +2,9 @@
 main:
   - title: "Research"
     url: /research/
-      - title: "Publications"
-        url: /publications/   
+  
+  - title: "Publications"
+    url: /publications/   
 
   - title: "Teaching and Lesson Design"
     url: /teaching-and-lesson-design/    
