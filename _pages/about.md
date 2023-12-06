@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Evolutionary ecology under global change"
+excerpt: "About me:"
 author_profile: true
 redirect_from: 
   - /about/
