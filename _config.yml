@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Eric G. Prileson"
+title                    : "Eric G. Prileson"
 title_separator          : "-"
 name                     : &name "Eric G. Prileson"
 description              : &description "personal website"
