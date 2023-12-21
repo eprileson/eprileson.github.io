@@ -12,4 +12,4 @@ redirect_from:
 
 I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
 
-![Getting cold feet while exploring nature](C:/Users/prile/Documents/Website/eprileson.github.io/images/PXL_20220510_195253982.jpg)
+![Getting cold feet while exploring nature](C:/Users/prile/Documents/Website/eprileson.github.io/images/PXL_20220510_195253982.JPG)
