@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a scientist and communicator researching responses to global change
+##I am a scientist and communicator researching responses to global change
 -
 I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
 
