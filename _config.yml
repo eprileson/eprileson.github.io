@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Evolutionary Ecology Under Global Change"
+#title                    : "Eric G. Prileson"
 title_separator          : "-"
 name                     : &name "Eric G. Prileson"
 description              : &description "personal website"
