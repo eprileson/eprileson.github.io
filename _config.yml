@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eric G. Prileson, M.S."
   avatar           : "PXL_20210626_173113616.MP.jpg"
-  bio              : "PhD Student | Washington State University, Vancouver"
+  bio              : "PhD Candidate | Washington State University, Vancouver"
   location         : "Vancouver, WA"
   #employer         : "Washington State University - Vancouver"
   googlescholar    : "https://scholar.google.com/citations?user=_coSNZoAAAAJ&hl=en&inst=3189495329521712930"
@@ -174,16 +174,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  teaching and lesson design:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  side projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  writing:
     output: true
     permalink: /:collection/:path/
 
@@ -208,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching and lesson design
   - scope:
       path: ""
       type: teaching
@@ -226,7 +226,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Side Projects
   - scope:
       path: ""
       type: portfolio
@@ -235,7 +235,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _writing
   - scope:
       path: ""
       type: talks
