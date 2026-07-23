@@ -27,6 +27,6 @@ Feel free to reach out to [my email](eric.prileson@wsu.edu) to request the pdf f
 
 1\. Diamond, S.E., **Prileson**, **E.G.**, Martin, R.A.. Adaptation to urban environments. 2022. Current Opinion in Insect Science. 51:100893 <https://doi.org/10.1016/j.cois.2022.100893>
 
-----------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 See the full list of publications with links to each article on [Google Scholar](https://scholar.google.com/citations?user=_coSNZoAAAAJ&hl=en&oi=ao&inst=3189495329521712930)
