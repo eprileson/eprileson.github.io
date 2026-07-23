@@ -12,7 +12,3 @@ editor_options:
 <iframe src="C:/Users/prile/Documents/WSU_PhD/PhD_Documents/Important%20Files/Annual_Review/Prileson_CV2026.pdf" width="100%" height="600px">
 
 </iframe>
-
-
-![Prileson_Eric.CV_2026](C:/Users/prile/Documents/WSU_PhD/PhD_Documents/Important%20Files/Annual_Review/Prileson_CV2026.pdf){width="100%"
-height="400"}
