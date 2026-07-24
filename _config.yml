@@ -174,13 +174,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching and lesson design:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  side projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   writing:
@@ -208,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching and lesson design
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -226,7 +226,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Side Projects
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
