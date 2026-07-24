@@ -33,7 +33,7 @@ In addition to allele frequency shifts in physiology that enable overwintering s
 
 -   Plasticity, or the flexibility of traits of an individual, can be an important mechanism of species persistence under changing climates. Importantly however, this capacity can evolve among populations. The extent to which the evolution of plasticity is beneficial or when it is maladaptive to populations, however, is not clear. We tested how broad level evolutionary processes of selection for insecticide resistance and gene flow affected the evolution of thermal and insecticide plasticity.
 
-#### Eco-evolutionary dynamics of a freshwater copepod and its stickleback fish prey
+#### Eco-evolutionary dynamics of a freshwater copepod and its stickleback fish predator
 
 ![](images/rudman_2019.png){width="311"}
 
