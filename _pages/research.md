@@ -78,3 +78,4 @@ These are a few selected papers, books, and projects that have influenced my thi
 -   Projects / Systems / Ideas:
 
 -   Podcasts and video series:
+  Okay, but birds
