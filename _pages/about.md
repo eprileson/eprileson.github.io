@@ -10,6 +10,6 @@ redirect_from:
 
 ## I am a scientist and communicator researching responses to global change
 
-I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
+I love exploring the natural world and connecting with people as we navigate this most challenging era in our history.
 
 ![Getting cold feet is part of the fun!](images/cold_Feet.Sierras.jpg)
