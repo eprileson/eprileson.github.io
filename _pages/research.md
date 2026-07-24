@@ -27,7 +27,7 @@ Currently in my PhD research in [Seth Rudman's lab](https://sites.google.com/vie
 
 In addition to allele frequency shifts in physiology that enable overwintering success, it is likely that behavioral divergence among populations also plays a strong role. By using choice trial set ups with fall-collected fruit flies, we tested for the evolution of food choice and nutritional variation in overwintering success.
 
-![](images/me_with_flies.png)
+![Chillin out with the flies](images/me_with_flies.png)
 
 #### Factors underlying the evolution of plasticity
 
@@ -43,7 +43,7 @@ Here is where eco-evo dynamics can explain these outcomes: when strong evolution
 
 Currently, we are testing for evolutionary divergence in the diaptomid copepod *Skistodiaptomus oregonensis* in response to ecological speciation of the threespine stickleback *Gasterosteus aculeatus* fish in coastal British Columbia lakes. We are testing for phenotypic divergence of life history traits in copepods using common garden rearing. Concurrently we are testing for genetic evidence using a genome-wide sequencing approach that can reveal population level divergence and potential signatures of selection.
 
-![](images/Emily.lake.jpg)
+![The view at Paxton Lake; Texada Island, BC](images/Emily.lake.jpg)
 
 ------------------------------------------------------------------------
 
@@ -77,5 +77,4 @@ These are a few selected papers, books, and projects that have influenced my thi
 
 -   Projects / Systems / Ideas:
 
--   Podcasts and video series:
-  Okay, but birds
+-   Podcasts and video series: Okay, but birds
