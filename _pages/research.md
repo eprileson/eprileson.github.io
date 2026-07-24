@@ -23,11 +23,11 @@ Currently in my PhD research in [Seth Rudman's lab](https://sites.google.com/vie
 
 -   Winter is challenging for ectotherms and the harsh conditions are likely a strong driver of divergence among populations. When conditions covary with other, novel stressors there is a strong potential for physiological trade-offs. We investigated evolution across winter and trade-offs with insecticide resistance using field populations of fruit flies (*Drosophila melanogaster*)*.* See [what we found in this paper](https://academic.oup.com/evolut/article/80/1/56/8280391)!
 
-![](images/Figure1_schematic.png){width="458"}
+![](images/Figure1_schematic.png)
 
 In addition to allele frequency shifts in physiology that enable overwintering success, it is likely that behavioral divergence among populations also plays a strong role. By using choice trial set ups with fall-collected fruit flies, we tested for the evolution of food choice and nutritional variation in overwintering success.
 
-![](images/me_with_flies-01.png){width="204"}
+![](images/me_with_flies.png)
 
 #### Factors underlying the evolution of plasticity
 
@@ -35,7 +35,7 @@ In addition to allele frequency shifts in physiology that enable overwintering s
 
 #### Eco-evolutionary dynamics of a freshwater copepod and its stickleback fish predator
 
-![](images/rudman_2019.png){width="311"}
+![](images/rudman_2019.png)
 
 The species-pair stickleback species is a fascinating case study of ecological character displacement and speciation. But what happens to the broader ecological community following speciation? How might that affect populations of primary prey species following divergence in the stickleback predator?
 
@@ -43,7 +43,7 @@ Here is where eco-evo dynamics can explain these outcomes: when strong evolution
 
 Currently, we are testing for evolutionary divergence in the diaptomid copepod *Skistodiaptomus oregonensis* in response to ecological speciation of the threespine stickleback *Gasterosteus aculeatus* fish in coastal British Columbia lakes. We are testing for phenotypic divergence of life history traits in copepods using common garden rearing. Concurrently we are testing for genetic evidence using a genome-wide sequencing approach that can reveal population level divergence and potential signatures of selection.
 
-![](images/Emily.lake.jpg){width="558"}
+![](images/Emily.lake.jpg)
 
 ------------------------------------------------------------------------
 
