@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric G. Prileson, M.S."
+  pronouns         : "he/him"
   avatar           : "PXL_20210626_173113616.MP.jpg"
   bio              : "PhD Candidate | Washington State University, Vancouver"
   location         : "Vancouver, WA"
@@ -90,6 +91,7 @@ author:
   researchgate     :  "https://www.researchgate.net/profile/Eric-Prileson"
   uri              :
   bitbucket        :
+  bluesky          : "@egprileson.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
