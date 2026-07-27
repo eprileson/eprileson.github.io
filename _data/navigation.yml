@@ -9,11 +9,8 @@ main:
   - title: "Teaching and Lesson Design"
     url: /teaching-and-lesson-design/    
         
-  - title: "Writing"
-    url: /writing/
-
-  - title: "Side Projects"
-    url: /side-projects
+  - title: "Writing & Side Projects"
+    url: /writing-and-side-projects/
     
   - title: "CV"
     url: /cv/

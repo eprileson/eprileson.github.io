@@ -1,3 +1,8 @@
+---
+permalink: /writing-and-side-projects/
+title: "Writing & Side Projects"
+---
+
 ## Writing and Side Projects
 
 I have a number of interests outside of my direct research questions of ecology, evolution, and biology in general. For a number of years prior to entering academia, I created blogs to express my written creativity in different subject areas. More importantly, these were online venues where I could write bad jokes and no one would care!
