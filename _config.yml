@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric G. Prileson, M.S."
+  pronouns         : "he/him"
   avatar           : "PXL_20210626_173113616.MP.jpg"
   bio              : "PhD Student | Washington State University, Vancouver"
   location         : "Vancouver, WA"
@@ -91,6 +92,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
+  bluesky          : "@egprileson.bsky.social"
   dribbble         :
   flickr           :
   facebook         :
@@ -149,7 +151,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,Rmd"
 
 
 # Conversion
@@ -180,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -211,7 +213,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: teaching and lesson design
     values:
       layout: single
       author_profile: true
@@ -226,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
