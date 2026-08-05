@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+  
+  - title: "Publications"
+    url: /publications/   
+
+  - title: "Teaching & Lesson Design"
+    url: /teaching-and-lesson-design/    
+        
+  - title: "Writing & Side Projects"
+    url: /writing-and-side-projects/
+    
+  - title: "CV"
+    url: /cv/
+    
