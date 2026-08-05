@@ -12,4 +12,4 @@ redirect_from:
 
 I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
 
-![Getting cold feet is part of the fun!](images/cold_Feet.Sierras.jpg)
+!["Getting cold feet is part of the fun!"](images/cold_Feet.Sierras.jpg)
