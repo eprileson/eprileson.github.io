@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
- # username               : &twitter
+bluesky:
+
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric G. Prileson, M.S."
+  name             : "Eric G. Prileson (He/Him), M.S."
   pronouns         : "he/him"
   avatar           : "PXL_20210626_173113616.MP.jpg"
   bio              : "PhD Candidate | Washington State University, Vancouver"
