@@ -1,5 +1,5 @@
 ---
-permalink: /teaching_&_lesson_design/
+permalink: /teaching-and-lesson-design/
 title: "Teaching & Lesson Design"
 ---
 
