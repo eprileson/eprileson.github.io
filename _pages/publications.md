@@ -7,7 +7,7 @@ author_profile: true
 
 Feel free to reach out to [my email](eric.prileson@wsu.edu) to request the pdf for any publication
 
-## Peer prints and in review
+## Pre-prints and manuscripts in review
 
 **Prileson, E. G**., Campagnari, B., Ruotsalainen, B., Shahmohammadloo, R. S., Zetina, C., & Rudman, S. M. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. *bioRxiv*, 2026.04.26.720922. <https://doi.org/10.64898/2026.04.26.720922>
 
