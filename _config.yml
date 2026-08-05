@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Evolutionary Ecology Under Global Change"
+title                    : "Eric G. Prileson"
 title_separator          : "-"
 name                     : &name "Eric G. Prileson"
 description              : &description "personal website"
@@ -83,7 +83,7 @@ author:
   name             : "Eric G. Prileson, M.S."
   pronouns         : "he/him"
   avatar           : "PXL_20210626_173113616.MP.jpg"
-  bio              : "PhD Student | Washington State University, Vancouver"
+  bio              : "PhD Candidate | Washington State University, Vancouver"
   location         : "Vancouver, WA"
   #employer         : "Washington State University - Vancouver"
   googlescholar    : "https://scholar.google.com/citations?user=_coSNZoAAAAJ&hl=en&inst=3189495329521712930"
@@ -91,6 +91,7 @@ author:
   researchgate     :  "https://www.researchgate.net/profile/Eric-Prileson"
   uri              :
   bitbucket        :
+  bluesky          : "@egprileson.bsky.social"
   codepen          :
   bluesky          : "@egprileson.bsky.social"
   dribbble         :
@@ -185,7 +186,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  writing:
     output: true
     permalink: /:collection/:path/
 
@@ -237,7 +238,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _writing
   - scope:
       path: ""
       type: talks

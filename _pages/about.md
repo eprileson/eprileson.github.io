@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a scientist and communicator researching responses to global change
--
+## I am a scientist and communicator researching responses to global change
+
 I love exploring the natural world and connecting with people as we navigate this challenging era in our history.
 
-![Sierra Nevada Alpine Pond](C:\Users\prile\Documents\Website\eprileson.github.io\images\PXL_20220510_195253982.jpg "getting cold feet while exploring nature")
+![Getting cold feet is part of the fun!](images/cold_Feet.Sierras.jpg)
+Getting cold feet is part of the fun!
