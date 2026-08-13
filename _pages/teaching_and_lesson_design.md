@@ -19,7 +19,7 @@ That is, science is the best because it is hands-on. We learn by physically mani
 
 Okay, that certainly sounds fun and entertaining, but, how do we actually structure the way we teach so that students are learning what we expect?
 
-This starts with a well-established feature of teaching and pedagogy in general: **Begin with end**. I lay out the goals for each major unit of teaching (broad sections of topic area or curriculum) and what I expect students to be able to do by the end of the unit. I can apply the same technique to weekly plans or individual lessons and activities. Then each of these smaller pieces becomes part of a scaffold to reach the major goal. This is sometimes called the Understanding by Design (UBD) model.
+This starts with a well-established feature of teaching and pedagogy in general: **Begin with end**. I lay out the goals for each major unit of teaching (broad sections of topic area or curriculum) and what I expect students to be able to do by the end of the unit. I can apply the same technique to weekly plans or individual lessons and activities. Then each of these smaller pieces becomes part of a scaffold to reach the major goal. This is sometimes called the [Understanding by Design (UBD) model](https://www.google.com/books/edition/The_Understanding_by_Design_Guide_to_Cre/0o3gEAAAQBAJ?hl=en&gbpv=1&dq=understanding+by+design&pg=PP1&printsec=frontcover).
 
 Although UBD is seemingly intuitive, I've found that across classrooms and age groups, it is applied with widespread variation or in some cases haphazardly, or sometimes not at all. UBD for now (until research in pedagogy finds a stronger evidenced-based methodology) will continue to be a driving force with how I plan and structure my teaching.
 
