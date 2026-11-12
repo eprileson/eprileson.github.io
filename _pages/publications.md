@@ -7,11 +7,9 @@ author_profile: true
 
 Feel free to reach out to [my email](eric.prileson@wsu.edu) to request the pdf for any publication
 
-## Pre-prints and manuscripts in review
-
-**Prileson, E. G**., Campagnari, B., Ruotsalainen, B., Shahmohammadloo, R. S., Zetina, C., & Rudman, S. M. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. *bioRxiv*, 2026.04.26.720922. <https://doi.org/10.64898/2026.04.26.720922>
-
 ## Peer-reviewed
+
+8\. **Prileson, E. G**., Campagnari, B., Ruotsalainen, B., Shahmohamadloo, R. S., Zetina, C., & Rudman, S. M. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. Proceedings of the Royal Society B: Biological Sciences, 293(2082), 20262085. https://doi.org/10.1098/rspb.2026.2085
 
 7\. Diamond, S. E., Martin, R. A., Avery, A. J., Bellino, G., Fleming, D., McCluney, K. E., **Prileson, E. G.**, & Sasaki, M. 2026. Thermophilization over space but not time among communities of ground-dwelling arthropods in a desert city. Ecology, 107(1), e70283.<https://doi.org/10.1002/ecy.70283>
 
@@ -26,6 +24,12 @@ Feel free to reach out to [my email](eric.prileson@wsu.edu) to request the pdf f
 2\. Diamond, S.E.,  Martin, R.A., Bellino, G., Crown, K.N., **Prileson, E.G.**. Urban evolution of thermal physiology in a range-expanding, mycophagous fruit fly, Drosophila tripunctata. Biological Journal of the Linnean Society.blac094, <https://doi.org/10.1093/biolinnean/blac094>.
 
 1\. Diamond, S.E., **Prileson**, **E.G.**, Martin, R.A.. Adaptation to urban environments. 2022. Current Opinion in Insect Science. 51:100893 <https://doi.org/10.1016/j.cois.2022.100893>
+
+------------------------------------------------------------------------
+
+## Pre-prints and manuscripts in review
+
+**Prileson, E. G**., Campagnari, B., Ruotsalainen, B., Shahmohammadloo, R. S., Zetina, C., & Rudman, S. M. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. *bioRxiv*, 2026.04.26.720922. <https://doi.org/10.64898/2026.04.26.720922>
 
 ------------------------------------------------------------------------
 
